@@ -1,3 +1,4 @@
 # ABS-Guide-Example
 This repository are examples of Advanced Bash Scripting Guide. I start chapter3, and
-execute this file by command "bash filename.sh". 
+execute this file by command "bash filename.sh". The name of each file is "number.sh"
+where number is the page number. 
